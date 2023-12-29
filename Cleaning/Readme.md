@@ -13,4 +13,6 @@ Column with no real uses for the analysis:
 
 ### Changing Data Types of Columns:
 
+'Crime Date Time' Column give us error when we change the Data Type:
 
+![image](https://github.com/mfernandezcean/Crime_Report/assets/105746149/b09b9d1d-5c48-401c-b4a0-740909c1d303)
