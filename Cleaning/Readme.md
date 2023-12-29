@@ -36,3 +36,5 @@ And then in Add Column Extract the last two digits:
 Whe end up with these three Columns:
 
 ![image](https://github.com/mfernandezcean/Crime_Report/assets/105746149/349a3fb9-6bef-4f90-b325-7a38e86fb0c9)
+
+## THEN 'Close & Apply'
