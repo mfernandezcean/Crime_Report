@@ -20,3 +20,5 @@ ADDCOLUMNS(
 ```
 
 ![image](https://github.com/mfernandezcean/Crime_Report/assets/105746149/e26c78b5-ed6f-4a7f-8c75-91659b302bd6)
+
+We need to control the years we're going to use in our report:
